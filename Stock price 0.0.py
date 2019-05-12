@@ -1,7 +1,8 @@
 import bs4
 import requests as rq
 """
-@author : NoderCoder
+@author : NoderCoder {mantrasutaria007@gmail.com}
+Date : 5/12/2019
 
 """
 Stocks =[ 'AMZN','FB','BEMG']
